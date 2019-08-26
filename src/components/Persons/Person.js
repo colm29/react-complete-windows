@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import classes from './Person.module.css';
 
-import Aux from '../../hoc/Auxilliary';
+import Aux from '../../hoc/Auxilliary'; //can also use <Fragment> (import Fragment from React)
 
 class Person extends Component {
     render() {
